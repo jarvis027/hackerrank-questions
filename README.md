@@ -1,1 +1,1 @@
-# hackerrank-questions
+# GFG question
